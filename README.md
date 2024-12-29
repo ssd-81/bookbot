@@ -1,2 +1,2 @@
 # bookbot
-built using python, git, and CLI
+Bookbot is my first project!
